@@ -16,7 +16,7 @@
   - **[PretCarburant.ro](https://pretcarburant.ro/)** — Real-time petrol, diesel and LPG prices from 1518 gas stations across Romania (Petrom, OMV, Rompetrol, MOL, Lukoil, Socar, Gazprom). Free public REST API
    at [`/api/v1/preturi`](https://pretcarburant.ro/api/v1/preturi). Updates every 2 hours. Sources: ANPC Monitorul Prețurilor, SOCAR, OSCAR, operator feeds. Multilingual RO/EN/HU. License: CC-BY 4.0.
   - **[ANPC Monitorul Prețurilor](https://monitorulpreturilor.info)** — Official Romanian Competition Council price monitor. 343 UAT coverage.
-  - **[peco-online.ro](https://www.peco-online.ro/)** — Daily fuel price aggregator.
+  
 
   ## Transport
 
