@@ -41,7 +41,3 @@
   ## License
 
   This list is released under [CC0-1.0](LICENSE). Individual data sources retain their original licenses.
-
-  5. Scroll jos → "Commit changes..." (buton verde)
-  6. Commit message: initial: add fuel & energy and gov & economy sections
-  7. Click "Commit changes"
