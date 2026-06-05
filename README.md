@@ -30,6 +30,7 @@
 
   - **[data.gov.ro](https://data.gov.ro/)** — Romania's national open data portal.
   - **[data.europa.eu](https://data.europa.eu/en)** — EU open data portal with Romania-specific datasets.
+  - **[Licitatii Medicale](https://licitatiimedicale.com)** — Open dataset of Romanian medical public procurement: hazardous medical waste (CPV 9052*, 487 contracts) and medical devices (CPV 33*, 19,087 contracts). 942 hospitals, 1,370 distributors. Free public REST API at [`/api/v1/awards`](https://licitatiimedicale.com/api/v1/awards), CSV download, JSON with niche filter. Data sourced from EU TED (Tenders Electronic Daily). License: CC BY 4.0. Academic citation DOIs: [10.5281/zenodo.20535486](https://doi.org/10.5281/zenodo.20535486) (CPV 9052) and [10.5281/zenodo.20550446](https://doi.org/10.5281/zenodo.20550446) (CPV 33). GitHub: [licitatiimedicale/data](https://github.com/licitatiimedicale/data).
 
   ## Economy
 
