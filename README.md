@@ -20,7 +20,7 @@
 
   ## Transport
 
-  - *(PR welcome)*
+  - **[DataInt Logibook — România](https://logibook.dataint.net/ro/tari/romania)** — Logistics and transport reference for Romania: ports, airports, airlines, free trade zones, customs regimes and dangerous-goods classes, consolidated from OpenFlights, OpenTravelData, UNCTAD and official aviation sources. Romanian + 24 languages. Web reference only — no API or bulk download.
 
   ## Weather
 
@@ -35,6 +35,7 @@
 
   - **[Institutul Național de Statistică (INS)](https://insse.ro/)** — National statistics office.
   - **[Banca Națională a României](https://www.bnr.ro/)** — Central bank statistics.
+  - **[DataInt Databook — România](https://databook.dataint.net/ro/tari/romania/)** — Country reference pages (population, economy, infrastructure, governance) compiled from World Bank, UN and UNESCO sources, each figure attributed to its publisher. Romanian + 24 languages. Web reference only — no API or bulk download.
 
   ---
 
