@@ -35,6 +35,7 @@
 
   - **[Institutul Național de Statistică (INS)](https://insse.ro/)** — National statistics office.
   - **[Banca Națională a României](https://www.bnr.ro/)** — Central bank statistics.
+  - **[DataInt Databook — România](https://databook.dataint.net/ro/tari/romania/)** — Country reference pages (population, economy, infrastructure, governance) compiled from World Bank, UN and UNESCO sources, each figure attributed to its publisher. Romanian + 24 languages. Web reference only — no API or bulk download.
 
   ---
 
