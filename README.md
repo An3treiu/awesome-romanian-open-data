@@ -30,6 +30,7 @@
 
   - **[data.gov.ro](https://data.gov.ro/)** — Romania's national open data portal.
   - **[data.europa.eu](https://data.europa.eu/en)** — EU open data portal with Romania-specific datasets.
+  - **[romania-law](https://github.com/lexifina/romania-law)** — Romanian law as one git history: about 245,000 acts (laws, ordinances, Government decisions, orders, local council decisions, EU law in Romanian), each version a commit dated on the day it took effect, one Markdown file per article, plus about 25,800 court decisions. Bulk download with git clone; the legal texts are official, the arrangement and tools are CC0.
 
   ## Economy
 
